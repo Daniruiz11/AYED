@@ -12,4 +12,5 @@ for i in range (0,len(texto1)):
         estado=1;
 if (estado==0):
     print('La cadena 2 ',texto2,' NO es rotación de la cadena 1 ',texto1)
+#BY:@DANIRUIZ11_
 

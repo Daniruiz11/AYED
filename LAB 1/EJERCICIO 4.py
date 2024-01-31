@@ -41,4 +41,5 @@ for i in range (lim1,lim2+1):
     #print (b)
     if primo(a)==1 and primo(b)==1:
         print(a,"-",b)
+#BY:@DANIRUIZ11_
     

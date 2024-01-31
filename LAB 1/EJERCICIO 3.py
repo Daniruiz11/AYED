@@ -1,4 +1,4 @@
-#PROGRAMA 2 PROBLEMA DE SUBCADENAS DISTINTAS
+#PROGRAMA 3 PROBLEMA DE SUBCADENAS DISTINTAS
 
 texto1=input("Ingrese la cadena original: ")
 #print (texto1)
@@ -10,3 +10,4 @@ for i in range (0,len(texto1)):
     cantidad=cantidad +1
 
 print ("La cantidad de cadenas posibles es: ",cantidad)
+#BY:@DANIRUIZ11_

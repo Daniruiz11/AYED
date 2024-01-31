@@ -31,5 +31,6 @@ else:
     print('La palabra', palabra , 'no es palindroma')
     palabra="";
 print('Se analizaron', cantidad ,'palabras');
+#BY:@DANIRUIZ11_
 
         
