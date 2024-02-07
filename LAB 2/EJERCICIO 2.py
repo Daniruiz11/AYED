@@ -6,7 +6,6 @@ import os
 import random
 import re
 import sys
-from itertools import combinations
 
 #
 # Complete the 'minimumAbsoluteDifference' function below.
@@ -17,14 +16,13 @@ from itertools import combinations
 
 def minimumAbsoluteDifference(arr):
     momento = abs(arr[1]-arr[0])
-    combinaciones = list(combinations(arr, 2))
-    print("combinaciones",combinaciones)
-    for comb in combinaciones:
-        i, j = comb
-        print("comb",comb)
-        if (abs(i-j))< momento:
-            momento=abs(i-j)
-            print("momento",momento)
+    for j in range (0,len(arr)):
+        for i in range (j+1,len(arr)):
+            key = abs(arr[j]-arr[i])
+            print("Key=",arr[j],"-",arr[i],key)
+            if i != j and momento>key:
+                momento=key
+                print("MOMENTO:",momento)
     return momento   
     
 
@@ -37,4 +35,4 @@ if __name__ == '__main__':
     result = minimumAbsoluteDifference(arr)
     print(result)
 
-
+#By:@DANIRUIZ11_
