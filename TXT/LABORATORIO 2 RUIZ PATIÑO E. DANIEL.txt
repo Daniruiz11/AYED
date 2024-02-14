@@ -1,0 +1,8 @@
+EJERCICIO 1: https://colab.research.google.com/drive/13G32JEp2kGdwS24DmcGEdcK55FYwTwRe?usp=drive_link
+EJERCICIO 2:https://colab.research.google.com/drive/1gqqTKZBNR0Cn04G_vXsqrIzX6ZxP8sZQ?usp=drive_link
+EJERCICIO 3:https://colab.research.google.com/drive/1Zm9XrkcK0y-RGbLojtVGyvlBqwm3iIND?usp=drive_link
+
+1. Tiempo total invertido: 7 HORAS
+2. estado actual del laboratorio: Se entrega con todo en funcionamiento
+3. Mayor logro: Lograr solucionar los programas sin ayuda externa (internet)
+4. Mayor problema técnico: La función insertion solo la habíamos visto para un arreglo de una dimensión pero fue fácil adaptarlo a un arreglo de dos dimensiones, el problema que no pude solucionar fue en el segundo ejercicio, mejorar la optimización pero la solución del problema está correcta. 

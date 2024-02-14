@@ -1,0 +1,8 @@
+EJERCICIO 1: https://colab.research.google.com/drive/1RQT07Z2teiDlO-4VKKpzCC4BH9RPr2s6?usp=sharing
+EJERCICIO 2: https://colab.research.google.com/drive/1UquVhWy4CxvpK-aZ8TDSuirHtfyVxmBd?usp=sharing
+EJERCICIO 3: https://colab.research.google.com/drive/1q7aOoBvPaBBq9iP3TjjdQgJSoW9xEfIx?usp=sharing
+
+1. Tiempo total invertido: 8 HORAS
+2. estado actual del laboratorio: Se entrega con todo en funcionamiento
+3. Mayor logro: Entender como funciona la recurrencia, en gran parte investigar sobre fibonacci me sirvió 
+4. Mayor problema técnico: El último programa no me funcionaba y era porque estaba intentando sumar la cadena sin convertirla a entero, cuando por fin me di cuenta de este error lo pude solucionar fácilmente y ya me funcionó, pero en eso perdí tiempo.
