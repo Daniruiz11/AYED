@@ -1,3 +1,5 @@
+####Recursion: Davis' Staircase
+
 import math
 import os
 import random
@@ -14,8 +16,6 @@ import sys
 def stepPerms(n,memoria={}):
     if n<0:
         print("Error, no se admiten números negativos")
-    elif n in memoria:
-        return memoria[n]
     elif n==0:
         return 0
     elif n==1:
@@ -26,7 +26,6 @@ def stepPerms(n,memoria={}):
         return 4
     else:
         total=stepPerms(n-1)+stepPerms(n-2)+stepPerms(n-3)
-        memoria[n]=total
         return total
 
 if __name__ == '__main__':
@@ -40,4 +39,4 @@ if __name__ == '__main__':
         res = stepPerms(n)
         print(res)
 
-       
+###BY:@DaniRuiz11_
