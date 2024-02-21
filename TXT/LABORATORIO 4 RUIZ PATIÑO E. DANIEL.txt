@@ -1,0 +1,8 @@
+EJERCICIO 1: https://colab.research.google.com/drive/1Gyr3udYiM2iAPsmFUk4wpGXcZjl6XyCd?usp=sharing
+EJERCICIO 2: https://colab.research.google.com/drive/11VIJb_xkojwIkUwfWOEjdBhPmR4cNErw?usp=sharing
+EJERCICIO 3: No lo pude realizar, no me funcionó ningún intento
+
+1. Tiempo total invertido: 6 HORAS
+2. estado actual del laboratorio: Se entrega con todo en funcionamiento menos el ejercicio 3
+3. Mayor logro: Entender como funciona la programación dinámica y cómo nos puede ayudar a optimizar el proceso. 
+4. Mayor problema técnico: El último programa no me funcionó y no pude entender en su totalidad el objetivo de este.
