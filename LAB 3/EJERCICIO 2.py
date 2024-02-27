@@ -23,7 +23,7 @@ def calculo(x, n, num):
         return 1
     if (restante < 0):
         return 0
-   # print (calculo(restante,n,num+1))
+    print ("print",restante,n,num+1)
     return calculo(restante, n, num + 1) + calculo(x, n, num + 1) 
 
 
