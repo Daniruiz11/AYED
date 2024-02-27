@@ -1,0 +1,3 @@
+EJERCICIO 1: https://colab.research.google.com/drive/1io80pNL5mhNScDM2m__XQ25_Rs5GH8rn?usp=sharing
+EJERCICIO 2: https://colab.research.google.com/drive/1oSa9B_prqQdorAMxuVJHpoZWrClHPi5J?usp=sharing
+EJERCICIO 4: https://colab.research.google.com/drive/1badwC6vvcRnAqpjI86XRXewZpsgLD726?usp=sharing
