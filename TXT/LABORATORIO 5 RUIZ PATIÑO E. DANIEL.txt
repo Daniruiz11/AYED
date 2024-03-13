@@ -1,0 +1,8 @@
+EJERCICIO 1: https://colab.research.google.com/drive/1AlfD-C1WXQ_IV0OKtYi8OUQpKkBtNtJZ?usp=sharing
+EJERCICIO 2: https://colab.research.google.com/drive/1kpi-CDIJI1P0EINXf39-Yau_S4ztCq2J?usp=drive_link
+EJERCICIO 3: https://colab.research.google.com/drive/1g4HcNjryR9CAlSeRpGSL6g2URuL0h5gW?usp=sharing
+
+1. Tiempo total invertido: 8 HORAS
+2. estado actual del laboratorio: Se entrega con todo en funcionamiento menos el ejercicio 1 que por tiempo no se depuró al 100%
+3. Mayor logro: Manejo de las estructuras pila y cola. 
+4. Mayor problema técnico: El primer programa al intentar usar recurrencia se me enredó más de lo que pensé.
