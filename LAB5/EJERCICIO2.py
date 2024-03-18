@@ -1,5 +1,5 @@
 #!/bin/python3
-
+###poisonousPlants
 import math
 import os
 import random
@@ -14,7 +14,23 @@ import sys
 #
 
 def poisonousPlants(p):
-    # Write your code here
+    pila = []
+    maximo = 0 
+    
+    for pesticida in p:
+        dias = 0 
+        while pila and pila[-1][0] >= pesticida:
+            dias = max(dias, pila.pop()[1])
+        if pila:
+            dias += 1
+        else:
+            dias = 0
+        maximo = max(maximo, dias)
+        pila.append((pesticida, dias))
+    
+    return maximo
+
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
@@ -28,3 +44,5 @@ if __name__ == '__main__':
     fptr.write(str(result) + '\n')
 
     fptr.close()
+
+##By: DaniRuiz11_
