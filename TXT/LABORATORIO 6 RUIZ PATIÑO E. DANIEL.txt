@@ -1,0 +1,8 @@
+EJERCICIO 1: https://colab.research.google.com/drive/1VI6F6fL8its7oZqwWCm4dMCGBoIFEaps?usp=sharing
+EJERCICIO 2: https://colab.research.google.com/drive/1-JP8mBvOA3jCqBHCtNR7inSlo7fPUQL2?usp=sharing
+EJERCICIO 3: https://colab.research.google.com/drive/1kdlBexo-Lv9BM-i7P54pCFw5bxS_deWr?usp=sharing
+
+1. Tiempo total invertido: 6 HORAS
+2. estado actual del laboratorio: Se entrega con todo en funcionamiento 
+3. Mayor logro: Aprender a crear una clase para poder usar los arboles 
+4. Mayor problema técnico: No entendía la manera en que funcionaba la clase para crear un arbol o sus atributos
